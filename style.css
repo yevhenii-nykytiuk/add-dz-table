@@ -5,7 +5,7 @@
 }
 
 .header {
-  background-image: url("../img/gory.jpg");
+  background-image: url(../img/gory.jpg);
   background-repeat: no-repeat;
   background-size: 100%;
 }
